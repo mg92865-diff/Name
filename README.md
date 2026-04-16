@@ -1,2 +1,2 @@
 # Name
-beginning html app
+beginning html app. contains index.html and app.js
